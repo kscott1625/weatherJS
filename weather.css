@@ -61,6 +61,7 @@ i {
 .humidity-pic{
     width: 80px;
     height: 80px;
+
 }
 
 .details{
@@ -69,4 +70,7 @@ i {
     justify-content: space-between;
     padding: 0 20px;
     margin-top: 20px;
+}
+p{
+    color: aliceblue;
 }
